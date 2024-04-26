@@ -1,5 +1,5 @@
 # WordScrambleProject
-<br>Play a fun game. I'll give you one word and youur job is to make as many weords as pssoiible!
+<br>Play a fun game. I'll give you one word and your job is to make as many weords as pssoiible!
 <br>no reusing words!
 <br>no making up words!
 <br>you have ot use the letters available in the given weord!
